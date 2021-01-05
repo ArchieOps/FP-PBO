@@ -1,10 +1,5 @@
 package com.zetcode;
 
-/*The goal of the game is to 
-collect all the points in the maze and avoid the 
-ghosts. 
-*/
-
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Dimension;
